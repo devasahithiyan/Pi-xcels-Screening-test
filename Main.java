@@ -45,7 +45,7 @@ public class Main {
         int y = sc.nextInt();
 
 
-        System.out.println("Minimum distance between " +x+ " and 1" + y + " is"+minDist(arr, n, x, y));
+        System.out.println("Minimum distance between " +x+ " and 1" + y + " is "+minDist(arr, n, x, y));
     }
 }
 
