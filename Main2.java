@@ -29,11 +29,11 @@ public class Main2 {
     public static void main(String[] args) {
         int[] test1 = {1, 2, 3, 2};
         int x1 = 1, y1 = 2;
-        System.out.println(minDist(test1, test1.length, x1, y1)); // Output: 1
+        System.out.println(minDist(test1, test1.length, x1, y1)); 
 
         int[] test2 = {86, 39, 90, 67, 84, 66, 62};
         int x2 = 42, y2 = 12;
-        System.out.println(minDist(test2, test2.length, x2, y2)); // Output: -1
+        System.out.println(minDist(test2, test2.length, x2, y2)); 
     }
 }
 
